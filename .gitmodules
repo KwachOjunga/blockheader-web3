@@ -1,0 +1,9 @@
+[submodule "section-a/blockheader-web3"]
+	path = section-a/blockheader-web3
+	url = https://github.com/KwachOjunga/transaction-filter.git
+[submodule "section-a/transaction-filter"]
+	path = section-a/transaction-filter
+	url = https://github.com/KwachOjunga/transaction-filter.git
+[submodule "section-b/crypto-portfolio"]
+	path = section-b/crypto-portfolio
+	url = https://github.com/KwachOjunga/crypto-portfolio.git
