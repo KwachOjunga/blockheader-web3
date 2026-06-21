@@ -6,9 +6,10 @@ The following repo contains two projects:
 
 To get started:
     1. Clone repository
-    ```sh
-        git clone --recursive https://github.com/KwachOjunga/blockheader-web3.git
-    ```
+    
+        ```sh
+            git clone --recursive https://github.com/KwachOjunga/blockheader-web3.git
+        ```
 
     2. Navigate to either of the repos and run the instructions described in their respective readme files.
 
